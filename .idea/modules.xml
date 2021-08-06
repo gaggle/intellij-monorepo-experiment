@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/apps/a/a.iml" filepath="$PROJECT_DIR$/apps/a/a.iml" />
       <module fileurl="file://$PROJECT_DIR$/libs/foo/foo.iml" filepath="$PROJECT_DIR$/libs/foo/foo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/intellij-monorepo.iml" filepath="$PROJECT_DIR$/intellij-monorepo.iml" />
     </modules>
   </component>
 </project>
